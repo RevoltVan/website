@@ -1,0 +1,6 @@
+/* Tambahkan gaya untuk elemen 'h1' */
+h1 {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+}
